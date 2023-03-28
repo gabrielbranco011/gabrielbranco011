@@ -2,10 +2,14 @@
 
 - 👨‍💻 I'm currently doing college Analysis and System Development
 
- <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielbranco011&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbranco011&layout=compact&langs_count=16&theme=radical&hide=vb"/>
-    </div>
+<div>
+  <a href="https://github.com/gabrielbranco011%22%3E
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielbranco011&show_icons=true&theme=radical&include_all_commits=true&count_private=true%22/%3E
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbranco011&layout=compact&langs_count=16&theme=radical&hide=vb%22/%3E
+    </div><hr/>
+  <div>
+
+  </div>
  
  <div style="display: inline_block">
  
