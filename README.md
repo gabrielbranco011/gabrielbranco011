@@ -10,8 +10,8 @@
 
   </div>    
  
- <div style="display: inline_block"><br>
-
+ <div style="display: inline_block">
+ 
   ### *I've experience :* 
   <img src="https://skillicons.dev/icons?i=js,html,css"/>
 <br><br>
