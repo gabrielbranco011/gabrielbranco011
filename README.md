@@ -13,7 +13,7 @@
  <div style="display: inline_block">
  
   ### *I've experience :* 
-  <img src="https://skillicons.dev/icons?i=js,html,css"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py,react,vscode"/>
 <br><br>
 
    </div> <hr/>
