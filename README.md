@@ -13,8 +13,12 @@
  <div style="display: inline_block">
  
   ### *I've experience :* 
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py,react,vscode"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode"/>
 <br><br>
+
+### *Studing:*
+
+<img src="https://skillicons.dev/icons?i=react,py" />
 
    </div> <hr/>
   
