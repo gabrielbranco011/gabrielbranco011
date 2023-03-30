@@ -18,7 +18,7 @@
 
 ### *Studing:*
 
-<img src="https://skillicons.dev/icons?i=react,py" />
+<img src="https://skillicons.dev/icons?i=react,py,ts" />
 
    </div> <hr/>
   
