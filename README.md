@@ -18,7 +18,7 @@
 
 ### *Studing:*
 
-<img src="https://skillicons.dev/icons?i=react,py,ts,vite" />
+<img src="https://skillicons.dev/icons?i=react,py,ts,vite,tailwind" />
 
    </div> <hr/>
   
